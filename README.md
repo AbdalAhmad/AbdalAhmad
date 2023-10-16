@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdal Ahmad</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Flutter || Java || JavaScript || NoSQL|| Aws ||**
+- 🌱 I’m currently learning **Flutter || Java || JavaScript(Nodejs) || NoSQL|| Aws ||**
 
 - 👯 I’m looking to collaborate on **my startup project**
 
