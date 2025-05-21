@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdal Ahmad</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning ** Full Stack Flutter Developer ||  Nodejs+ExpressJS || MySQL || Java||**
+- 🌱 I’m currently learning ** Full Stack- Flutter Developer ||  Nodejs+ExpressJS || MySQL || Java||**
 
--- And also Frontend Developer Html || CSS || JS
+- 🌱 And a Frontend Developer also - Html || CSS || JS
 
 - 📫 How to reach me **abdalraza251@gmail.com**
 
