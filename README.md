@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdal Ahmad</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently a Full Stack- Flutter Developer ||  Nodejs+ExpressJS || MySQL || Java ||**
-
-- 🌱 And a Frontend Developer also - Html || CSS || JS 
-- 🌱 (Leetcode - 550+)
-- 🌱 System Design + OOPS + CN + OS + DBMS 
+- 🌱 Currently a Full Stack Developer  - Flutter || Node.js + Express.js || MySQL || Java *
+  
+- 🌱 Also a Web Frontend Developer  ||  HTML || CSS || JavaScript  
+- 🌱 Solved 550+ problems on LeetCode  
+- 🌱 Strong in System Design, OOP, Computer Networks, Operating Systems, and DBMS
 - 📫 How to reach me **abdalraza251@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
