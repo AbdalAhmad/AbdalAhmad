@@ -4,7 +4,7 @@
 - 🌱 I’m currently a Full Stack- Flutter Developer ||  Nodejs+ExpressJS || MySQL || Java ||**
 
 - 🌱 And a Frontend Developer also - Html || CSS || JS 
-- 🌱 (Leetcode - 450+)
+- 🌱 (Leetcode - 550+)
 - 🌱 System Design + OOPS + CN + OS + DBMS 
 - 📫 How to reach me **abdalraza251@gmail.com**
 
