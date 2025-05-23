@@ -2,7 +2,6 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 🌱 Currently a Full Stack Developer  - Flutter || Node.js + Express.js || MySQL || Java *
-  
 - 🌱 Also a Web Frontend Developer  ||  HTML || CSS || JavaScript  
 - 🌱 Solved 550+ problems on LeetCode  
 - 🌱 Strong in System Design, OOP, Computer Networks, Operating Systems, and DBMS
