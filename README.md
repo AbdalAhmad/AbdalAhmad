@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdal Ahmad</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 Currently a Full Stack Developer  - Flutter || Node.js + Express.js || MySQL || Java *
-
-- 🌱 Also a Web Frontend Developer  ||  HTML || CSS || JavaScript
+- 🌱 Currently a Full Stack Developer — Flutter || Node.js + Express.js (Firebase) || MySQL || Java
+  
+- 🌱 Experienced in Web Frontend Development — HTML || CSS || JavaScript
   
 - 🌱 Solved 550+ problems on LeetCode
   
