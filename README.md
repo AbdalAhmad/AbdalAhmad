@@ -5,7 +5,7 @@
 
 - 🌱 And a Frontend Developer also - Html || CSS || JS 
 - 🌱 (Leetcode - 450+)
-- 🌱 System Design + OOPS + CN +Dbms
+- 🌱 System Design + OOPS + CN +DBMS
 - 📫 How to reach me **abdalraza251@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
