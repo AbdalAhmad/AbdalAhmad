@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdal Ahmad</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 Currently a Full Stack Developer — Flutter || Node.js + Express.js (Firebase) || MySQL
+- 🌱 Currently a Full Stack App Developer — Flutter || Node.js + Express.js (Firebase) || MySQL
   
 - 🌱 Experienced in Web Frontend Development — HTML || CSS || JavaScript
   
