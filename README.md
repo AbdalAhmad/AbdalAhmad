@@ -7,7 +7,7 @@
   
 - 🌱 Solved 550+ problems on LeetCode || Java
   
-- 🌱 Strong in System Design, OOP, Computer Networks, Operating Systems, and DBMS
+- 🌱 Strong in System Design, OOP, Computer Networks, Operating Systems,and DBMS
   
 - 📫 How to reach me **abdalraza251@gmail.com**
 
