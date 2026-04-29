@@ -15,7 +15,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/abdalahmad" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdalahmad" height="30" width="40" />
-  </a>
+  </a><br>
   <a href="https://instagram.com/abdal.ahmad.raza" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdal.ahmad.raza" height="30" width="40" />
   </a>
