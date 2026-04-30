@@ -7,31 +7,37 @@
 
 ---
 
-### 🧑‍💻 About Me
-- 📱 I build **production-ready apps** using Flutter, Firebase, and Node.js  
-- 🌐 Full Stack Developer — APIs, backend systems, UI/UX  
-- 🧠 Solved **850+ DSA problems** (LeetCode)  
-- ⚙️ Strong in **System Design, OOP, DBMS, OS, Networks**  
-- 🎯 Focused on **shipping real-world projects, not tutorials**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdalAhmad&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-### 🎮 Developer Level System (Gamified)
-- 🟢 Level 1 → Learned fundamentals  
-- 🔵 Level 2 → Built projects  
-- 🟣 Level 3 → Solved 850+ DSA  
-- 🔴 **Level 4 (Current)** → Building scalable apps 🚀  
+## 🧑‍💻 About Me
+- 📱 Building production-ready apps (Flutter + Firebase + Node.js)  
+- 🌐 Full Stack Developer (APIs, backend, UI/UX)  
+- 🧠 Solved 850+ DSA problems (LeetCode)  
+- ⚙️ Strong in System Design, OOP, DBMS, OS, Networks  
+- 🎯 Focus: Shipping real products, not tutorials  
 
 ---
 
-### 🛠️ Tech Stack
+## 🎮 Developer Progress
+Level 1  ██████████░░░░░░░░░░  Fundamentals  
+Level 2  ███████████████░░░░░  Projects  
+Level 3  ██████████████████░░  850+ DSA  
+Level 4  ████████████████████  Building Real Apps 🚀  
+
+---
+
+## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,express,mongodb,mysql,js,html,css,git,github,postman" />
 </p>
 
 ---
 
-### 🚀 What I Build
+## 🚀 What I Build
 - 📱 Cross-platform mobile apps (Flutter)  
 - 🌍 Full-stack web apps  
 - 🔗 REST APIs & backend systems  
@@ -39,7 +45,26 @@
 
 ---
 
-### 🌐 Connect with Me
+## 🏆 Featured Projects
+
+### 🎮 Flutter Game App
+- Full game logic + UI + state management  
+- Persistent progress (no reset issues)  
+- Performance optimized  
+
+### 📱 Real-time App (Firebase)
+- Live data sync  
+- Authentication + database  
+- Production-ready structure  
+
+### 🌐 Backend APIs (Node.js)
+- REST APIs  
+- Auth + DB integration  
+- Scalable architecture  
+
+---
+
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/abdal-ahmad-raza-095688232/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -54,19 +79,7 @@
 
 ---
 
-### 📌 Featured Projects
-- 🎮 **Flutter Game App**  
-  → State management, persistent data, smooth gameplay  
-
-- 📱 **Real-time App (Firebase)**  
-  → Live data sync, user handling  
-
-- 🌐 **Backend APIs (Node.js)**  
-  → REST APIs, authentication, database integration  
-
----
-
-### 📊 GitHub Insights
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdalAhmad&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdalAhmad&theme=tokyonight" />
@@ -74,12 +87,12 @@
 
 ---
 
-### ⚡ What Makes Me Different
-- I **ship full products**, not just code snippets  
-- I **debug deeply**, not blindly copy solutions  
-- I use AI as a **tool**, not a dependency  
+## ⚡ Developer Mindset
+- I build complete products, not just UI  
+- I debug deeply (state, edge cases, performance)  
+- I use AI to accelerate, not depend  
 
 ---
 
-### 📫 Contact
-📧 **abdalraza251@gmail.com**
+## 📫 Contact
+📧 abdalraza251@gmail.com
