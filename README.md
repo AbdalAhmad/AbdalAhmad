@@ -1,32 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abdal Ahmad</h1>
-<h3 align="center">🚀 Flutter & Full Stack Developer | Building Real-World Apps</h3>
+<h3 align="center">Flutter & Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Flutter+Developer;Full+Stack+Builder;API+%2B+Backend+Engineer;Always+Shipping+Projects" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdalAhmad&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Real+Apps;Flutter+%7C+Node.js+%7C+Firebase;Backend+%2B+API+Developer" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 📱 Building production-ready apps (Flutter + Firebase + Node.js)  
-- 🌐 Full Stack Developer (APIs, backend, UI/UX)  
-- 🧠 Solved 850+ DSA problems (LeetCode)  
-- ⚙️ Strong in System Design, OOP, DBMS, OS, Networks  
-- 🎯 Focus: Shipping real products, not tutorials  
-
----
-
-## 🎮 Developer Progress
-Level 1  ██████████░░░░░░░░░░  Fundamentals  
-Level 2  ███████████████░░░░░  Projects  
-Level 3  ██████████████████░░  850+ DSA  
-Level 4  ████████████████████  Building Real Apps 🚀  
+- 📱 Building real-world apps using **Flutter, Firebase, Node.js**
+- 🌐 Full Stack Developer — APIs, backend systems, UI/UX
+- 🧠 Solved **850+ DSA problems**
+- ⚙️ Strong in **System Design, OOP, DBMS, OS**
+- 🎯 Focus: **Shipping complete products**
 
 ---
 
@@ -38,33 +24,21 @@ Level 4  ████████████████████  Building 
 ---
 
 ## 🚀 What I Build
-- 📱 Cross-platform mobile apps (Flutter)  
-- 🌍 Full-stack web apps  
-- 🔗 REST APIs & backend systems  
-- ⚡ Clean UI + scalable architecture  
+- 📱 Cross-platform mobile apps (Flutter)
+- 🌍 Full-stack web applications
+- 🔗 REST APIs & backend systems
+- ⚡ Scalable and clean architecture
 
 ---
 
-## 🏆 Featured Projects
-
-### 🎮 Flutter Game App
-- Full game logic + UI + state management  
-- Persistent progress (no reset issues)  
-- Performance optimized  
-
-### 📱 Real-time App (Firebase)
-- Live data sync  
-- Authentication + database  
-- Production-ready structure  
-
-### 🌐 Backend APIs (Node.js)
-- REST APIs  
-- Auth + DB integration  
-- Scalable architecture  
+## 🏆 Featured Work
+- 🎮 Flutter App — State management, persistence, smooth UX  
+- 📱 Firebase Apps — Real-time data + authentication  
+- 🌐 Backend APIs — Node.js, Express, database systems  
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/abdal-ahmad-raza-095688232/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -79,18 +53,10 @@ Level 4  ████████████████████  Building 
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdalAhmad&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdalAhmad&theme=tokyonight" />
-</p>
-
----
-
 ## ⚡ Developer Mindset
-- I build complete products, not just UI  
-- I debug deeply (state, edge cases, performance)  
-- I use AI to accelerate, not depend  
+- Build → Test → Fix → Ship  
+- Focus on real problems, not tutorials  
+- Use AI to speed up, not depend  
 
 ---
 
