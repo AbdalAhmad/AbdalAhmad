@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
  <a href="https://leetcode.com/u/abdalraza251/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="30" width="30"/>
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="30"/>
 </a>
 </p>
 
@@ -43,7 +43,7 @@
 ---
 
 ### 📌 Featured Work
-- 🎮 Flutter Game App — State management, persistence, gameplay logic  
+- 🎮 Flutter Mobile App and  Game App — State management, persistence, gameplay logic  
 - 📱 App systems with real-time data (Firebase integration)  
 - 🌐 Backend APIs using Node.js & Express  
 
