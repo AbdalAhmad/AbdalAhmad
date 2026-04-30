@@ -28,12 +28,6 @@
   <a href="https://instagram.com/abdal.ahmad.raza" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://www.youtube.com/c/abdal ahmad" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" />
-  </a>
-  <a href="https://www.codechef.com/users/abdalahmad" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codechef" />
-  </a>
   <a href="https://leetcode.com/u/abdalraza251/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
