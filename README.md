@@ -22,15 +22,15 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/abdalahmad" target="_blank">
+  <a href="https://www.linkedin.com/in/abdal-ahmad-raza-095688232/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://instagram.com/abdal.ahmad.raza" target="_blank">
+  <a href="https://www.instagram.com/abdal_ahmad_raza/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://leetcode.com/u/abdalraza251/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
-  </a>
+ <a href="https://leetcode.com/u/abdalraza251/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="30" width="30"/>
+</a>
 </p>
 
 ---
