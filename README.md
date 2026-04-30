@@ -27,9 +27,9 @@
   </a>
   <a href="https://www.instagram.com/abdal_ahmad_raza/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  </a> <br>
  <a href="https://leetcode.com/u/abdalraza251/" target="_blank">
-  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="30"/>
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="50"/>
 </a>
 </p>
 
